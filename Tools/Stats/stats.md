@@ -1,4 +1,28 @@
 # Top Threat Hunters 
-| | |
-|----|----|
-| <table> <tr><th>Rank</th><th>User</th><th>Score</th><th>Badges</th></tr><tr><td>1</td><td><a href="https://www.github.com/{user_top1}"> {user_top1} </a></td><td>{score_top1}</td><td>{badge_1}</td></tr> <tr><td>2</td><td><a href="https://www.github.com/{user_top2}"> {user_top2} </a></td><td>{score_top2}</td><td>{badge_2}</td></tr> <tr><td>3</td><td><a href="https://www.github.com/{user_top3}"> {user_top3} </a></td><td>{score_top3}</td><td>{badge_3}</td></tr> <tr><td>4</td><td><a href="https://www.github.com/{user_top4}"> {user_top4} </a></td><td>{score_top4}</td><td>{badge_4}</td></tr> <tr><td>5</td><td><a href="https://www.github.com/{user_top5}"> {user_top5} </a></td><td>{score_top5}</td><td>{badge_5}</td></tr> <tr><td>6</td><td><a href="https://www.github.com/{user_top6}"> {user_top6} </a></td><td>{score_top6}</td><td>{badge_6}</td></tr> <tr><td>7</td><td><a href="https://www.github.com/{user_top7}"> {user_top7} </a></td><td>{score_top7}</td><td>{badge_7}</td></tr> <tr><td>8</td><td><a href="https://www.github.com/{user_top8}"> {user_top8} </a></td><td>{score_top8}</td><td>{badge_8}</td></tr> <tr><td>9</td><td><a href="https://www.github.com/{user_top9}"> {user_top9} </a></td><td>{score_top9}</td><td>{badge_9}</td></tr> <tr><td>10</td><td><a href="https://www.github.com/{user_top10}"> {user_top10} </a></td><td>{score_top10}</td><td>{badge_10}</td></tr> </table> | <table> <tr><th>Rank</th><th>User</th><th>Score</th><th>Badges</th></tr><tr><td>11</td><td><a href="https://www.github.com/{user_top11}"> {user_top11} </a></td><td>{score_top11}</td><td>{badge_11}</td></tr><tr><td>12</td><td><a href="https://www.github.com/{user_top12}"> {user_top12} </a></td><td>{score_top12}</td><td>{badge_12}</td></tr><tr><td>13</td><td><a href="https://www.github.com/{user_top13}"> {user_top13} </a></td><td>{score_top13}</td><td>{badge_13}</td></tr><tr><td>14</td><td><a href="https://www.github.com/{user_top14}"> {user_top14} </a></td><td>{score_top14}</td><td>{badge_14}</td></tr><tr><td>15</td><td><a href="https://www.github.com/{user_top15}"> {user_top15} </a></td><td>{score_top15}</td><td>{badge_15}</td></tr><tr><td>16</td><td><a href="https://www.github.com/{user_top16}"> {user_top16} </a></td><td>{score_top16}</td><td>{badge_16}</td></tr><tr><td>17</td><td><a href="https://www.github.com/{user_top17}"> {user_top17} </a></td><td>{score_top17}</td><td>{badge_17}</td></tr><tr><td>18</td><td><a href="https://www.github.com/{user_top18}"> {user_top18} </a></td><td>{score_top18}</td><td>{badge_18}</td></tr><tr><td>19</td><td><a href="https://www.github.com/{user_top19}"> {user_top19} </a></td><td>{score_top19}</td><td>{badge_19}</td></tr><tr><td>20</td><td><a href="https://www.github.com/{user_top20}"> {user_top20} </a></td><td>{score_top20}</td><td>{badge_20}</td></tr></table>|
+|Rank|User|Score|Badges|
+|:---:|:---:|:---:|:---:|
+|1|[{user_top1}](https://www.github.com/{user_top1}) | {score_top1} | {badge_1}|
+|2|[{user_top2}](https://www.github.com/{user_top2}) | {score_top2} | {badge_2}|
+|3|[{user_top3}](https://www.github.com/{user_top3}) | {score_top3} | {badge_3}|
+|4|[{user_top4}](https://www.github.com/{user_top4}) | {score_top4} | {badge_4}|
+|5|[{user_top5}](https://www.github.com/{user_top5}) | {score_top5} | {badge_5}|
+|6|[{user_top6}](https://www.github.com/{user_top6}) | {score_top6} | {badge_6}|
+|7|[{user_top7}](https://www.github.com/{user_top7}) | {score_top7} | {badge_7}|
+|8|[{user_top8}](https://www.github.com/{user_top8}) | {score_top8} | {badge_8}|
+|9|[{user_top9}](https://www.github.com/{user_top9}) | {score_top9} | {badge_9}|
+|10|[{user_top10}](https://www.github.com/{user_top10}) | {score_top10} | {badge_10}|
+|11|[{user_top11}](https://www.github.com/{user_top11}) | {score_top11} | {badge_11}|
+|12|[{user_top12}](https://www.github.com/{user_top12}) | {score_top12} | {badge_12}|
+|13|[{user_top13}](https://www.github.com/{user_top13}) | {score_top13} | {badge_13}|
+|14|[{user_top14}](https://www.github.com/{user_top14}) | {score_top14} | {badge_14}|
+|15|[{user_top15}](https://www.github.com/{user_top15}) | {score_top15} | {badge_15}|
+|16|[{user_top16}](https://www.github.com/{user_top16}) | {score_top16} | {badge_16}|
+|17|[{user_top17}](https://www.github.com/{user_top17}) | {score_top17} | {badge_17}|
+|18|[{user_top18}](https://www.github.com/{user_top18}) | {score_top18} | {badge_18}|
+|19|[{user_top19}](https://www.github.com/{user_top19}) | {score_top19} | {badge_19}|
+|20|[{user_top20}](https://www.github.com/{user_top20}) | {score_top20} | {badge_20}|
+|21|[{user_top21}](https://www.github.com/{user_top21}) | {score_top21} | {badge_21}|
+|22|[{user_top22}](https://www.github.com/{user_top22}) | {score_top22} | {badge_22}|
+|23|[{user_top23}](https://www.github.com/{user_top23}) | {score_top23} | {badge_23}|
+|24|[{user_top24}](https://www.github.com/{user_top24}) | {score_top24} | {badge_24}|
+|25|[{user_top25}](https://www.github.com/{user_top25}) | {score_top25} | {badge_25}|
