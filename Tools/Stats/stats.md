@@ -1,26 +1,26 @@
 # Top Threat Hunters 
 |Rank|User|Score|Badges|
 |:---:|:---:|:---:|:---:|
-|1|[{user_top1}](https://www.github.com/{user_top1}) | {score_top1} | {badge_1}|
-|2|[{user_top2}](https://www.github.com/{user_top2}) | {score_top2} | {badge_2}|
-|3|[{user_top3}](https://www.github.com/{user_top3}) | {score_top3} | {badge_3}|
-|4|[{user_top4}](https://www.github.com/{user_top4}) | {score_top4} | {badge_4}|
-|5|[{user_top5}](https://www.github.com/{user_top5}) | {score_top5} | {badge_5}|
-|6|[{user_top6}](https://www.github.com/{user_top6}) | {score_top6} | {badge_6}|
-|7|[{user_top7}](https://www.github.com/{user_top7}) | {score_top7} | {badge_7}|
-|8|[{user_top8}](https://www.github.com/{user_top8}) | {score_top8} | {badge_8}|
-|9|[{user_top9}](https://www.github.com/{user_top9}) | {score_top9} | {badge_9}|
-|10|[{user_top10}](https://www.github.com/{user_top10}) | {score_top10} | {badge_10}|
-|11|[{user_top11}](https://www.github.com/{user_top11}) | {score_top11} | {badge_11}|
-|12|[{user_top12}](https://www.github.com/{user_top12}) | {score_top12} | {badge_12}|
-|13|[{user_top13}](https://www.github.com/{user_top13}) | {score_top13} | {badge_13}|
-|14|[{user_top14}](https://www.github.com/{user_top14}) | {score_top14} | {badge_14}|
-|15|[{user_top15}](https://www.github.com/{user_top15}) | {score_top15} | {badge_15}|
-|16|[{user_top16}](https://www.github.com/{user_top16}) | {score_top16} | {badge_16}|
-|17|[{user_top17}](https://www.github.com/{user_top17}) | {score_top17} | {badge_17}|
-|18|[{user_top18}](https://www.github.com/{user_top18}) | {score_top18} | {badge_18}|
-|19|[{user_top19}](https://www.github.com/{user_top19}) | {score_top19} | {badge_19}|
-|20|[{user_top20}](https://www.github.com/{user_top20}) | {score_top20} | {badge_20}|
+|1|[dicolanl](https://www.github.com/dicolanl) | 870 | ![50 Contributions Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/New50.png)|
+|2|[9b](https://www.github.com/9b) | 280 | ![10 Contributions Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/New10.png)|
+|3|[alonalcide](https://www.github.com/alonalcide) | 100 | ![5 Contributions Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/New5.png)|
+|4|[liadga](https://www.github.com/liadga) | 90 | ![5 Contributions Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/New5.png)|
+|5|[razmarom](https://www.github.com/razmarom) | 90 | ![5 Contributions Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/New5.png)|
+|6|[zcarsco](https://www.github.com/zcarsco) | 80 | ![5 Contributions Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/New5.png)|
+|7|[nrathaus](https://www.github.com/nrathaus) | 80 | ![5 Contributions Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/New5.png)|
+|8|[TheAwesem](https://www.github.com/TheAwesem) | 80 | ![5 Contributions Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/New5.png)|
+|9|[tom-meaney-forcepoint](https://www.github.com/tom-meaney-forcepoint) | 80 | ![5 Contributions Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/New5.png)|
+|10|[ThijsLecomte](https://www.github.com/ThijsLecomte) | 80 | ![5 Contributions Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/New5.png)|
+|11|[Dlo-Bagari](https://www.github.com/Dlo-Bagari) | 80 | ![5 Contributions Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/New5.png)|
+|12|[anthonylamark](https://www.github.com/anthonylamark) | 70 | ![5 Contributions Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/New5.png)|
+|13|[georgykagan](https://www.github.com/georgykagan) | 70 | ![5 Contributions Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/New5.png)|
+|14|[michaelNevinFP](https://www.github.com/michaelNevinFP) | 70 | ![5 Contributions Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/New5.png)|
+|15|[danymello](https://www.github.com/danymello) | 70 | ![5 Contributions Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/New5.png)|
+|16|[netevert](https://www.github.com/netevert) | 60 | ![Baby Threat Hunter Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/BabyThreatHunter.png)|
+|17|[javaservlets](https://www.github.com/javaservlets) | 60 | ![Baby Threat Hunter Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/BabyThreatHunter.png)|
+|18|[JimmyJamCABD](https://www.github.com/JimmyJamCABD) | 50 | ![Baby Threat Hunter Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/BabyThreatHunter.png)|
+|19|[baselsalam](https://www.github.com/baselsalam) | 40 | ![5 Contributions Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/New5.png)|
+|20|[gregcoward](https://www.github.com/gregcoward) | 40 | ![Baby Threat Hunter Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/BabyThreatHunter.png)|
 |21|[{user_top21}](https://www.github.com/{user_top21}) | {score_top21} | {badge_21}|
 |22|[{user_top22}](https://www.github.com/{user_top22}) | {score_top22} | {badge_22}|
 |23|[{user_top23}](https://www.github.com/{user_top23}) | {score_top23} | {badge_23}|
